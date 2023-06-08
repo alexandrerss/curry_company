@@ -4,7 +4,7 @@ pandas==1.4.3
 numpy==1.23.1
 folium==0.13.0
 matplotlib==3.5.3
-matplotlib-inline==0.1.16
+matplotlib-inline==0.1.6
 haversine==2.7.07
 streamlit_folium==0.7.0
 Pilloow==9.2.0
