@@ -79,7 +79,7 @@ def top_delivers(df, top_asc):
 # =================================
 
 #importar o arquivo csv
-df1 = pd.read_csv('D:/Comunidade_ds/repos/FTC/dataset/train.csv')
+df1 = pd.read_csv('dataset/train.csv')
 
 # Executando a limpeza (função)
 df  = limpeza(df1)
